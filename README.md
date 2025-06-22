@@ -1,8 +1,9 @@
 # Bank_Churn_Analysis
 
-##Objective
+#Objective
 
 The goal of this project is to:
+
 Monitor the churn rate over time.
 Compare active vs inactive customer trends.
 Analyze customers by credit score, gender, and card status.
